@@ -25,5 +25,4 @@ function getValue() {
       text = "Invalid mark!";
     } //displays 'The mark entered was invalid' if value of marks is more than 100;
   
-    document.getElementById("results").innerText = text; //prints the text in the wep page in the
   }

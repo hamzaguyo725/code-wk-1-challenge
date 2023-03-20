@@ -15,6 +15,5 @@ function getValue() {
       text = "License suspended!";
     } //prints 'LICENCE SUSPENDED'when total demerit points exceed 12;
   
-    document.getElementById("result").innerHTML = text; //prints text on the page;
   }
   
